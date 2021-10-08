@@ -2,4 +2,7 @@
  * A TypeScript template
  */
 
-// @TODO Write some ts code
+import { Vehicle } from "./Vehicle";
+
+const vehicle = new Vehicle("Toyota")
+vehicle.printVehicle("PREF");

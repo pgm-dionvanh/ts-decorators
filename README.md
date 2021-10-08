@@ -1,17 +1,17 @@
-# TypeScript starter template
+# TypeScript Decorators
 
 ## Description
 
-A TypeScript starter template
+A demo project to demonstrate TypeScript decorators.
+
+## Useful References
+
+- [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/decorators.html)
 
 ## Installation
 
-Install the npm packages: `npm install`
-
-## Compile Code
-
-Compile and serve via `npm run build`
+Install the packages: `yarn install`
 
 ## Run
 
-Run compiled code via `npm run serve`
+Run compiled code via `yarn start`
