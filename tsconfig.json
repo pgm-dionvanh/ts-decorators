@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "experimentalDecorators": true,
+    "target": "ES6",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "baseUrl": ".",
+    "sourceMap": true,
+    "outDir": "build"
+  },
+  "include": ["src/**/*"],
+}
